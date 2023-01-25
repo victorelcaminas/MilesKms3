@@ -107,6 +107,7 @@ public class MainFrame extends javax.swing.JFrame {
             textFieldKilometers.setText("" + kms);
         } catch(NumberFormatException ex) {
             showMessageOnlyNumbers();
+            // Test
         }
             
     }//GEN-LAST:event_buttonConvertToKmsActionPerformed
