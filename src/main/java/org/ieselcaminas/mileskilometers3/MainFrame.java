@@ -92,7 +92,7 @@ public class MainFrame extends javax.swing.JFrame {
                     .addComponent(labelKms)
                     .addComponent(textFieldKilometers, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(buttonConvertToMiles))
-                .addContainerGap(47, Short.MAX_VALUE))
+                .addContainerGap(31, Short.MAX_VALUE))
         );
 
         pack();
